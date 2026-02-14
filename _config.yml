@@ -1,2 +1,3 @@
-name: My Site
-theme: minima
+theme: jekyll-theme-minimal
+title: Jamie's Homepage
+description: Bookmark this for the future
